@@ -17,10 +17,9 @@ damage = 10
 [node name="Sprite" parent="." index="0"]
 rotation = 3.14159
 texture = ExtResource( 3 )
-region_rect = Rect2( 388.31, 274.602, 33.0095, 22.8866 )
+region_rect = Rect2( 388.339, 274.334, 31.7771, 23.8329 )
 
 [node name="CollisionShape2D" parent="." index="1"]
-visible = false
 shape = SubResource( 1 )
 
 [node name="Lifetime" parent="." index="2"]
