@@ -49,7 +49,6 @@ position = Vector2( 2475.18, 1057.36 )
 script = ExtResource( 5 )
 gun_cooldown = 0.7
 max_health = 250
-offroad_friction = 0.75
 gun_shots = 3
 max_ammo = 120
 ammo = -3
@@ -196,7 +195,7 @@ type = 6
 [node name="Items" type="Node2D" parent="."]
 
 [node name="Pickup" parent="Items" instance=ExtResource( 9 )]
-position = Vector2( 2696.59, 1366.65 )
+position = Vector2( 1900.32, 1412.01 )
 type = 1
 
 [node name="Pickup10" parent="Items" instance=ExtResource( 9 )]
@@ -212,11 +211,11 @@ position = Vector2( 3397.11, 1104.59 )
 type = 1
 
 [node name="Pickup6" parent="Items" instance=ExtResource( 9 )]
-position = Vector2( 2731.87, 736.69 )
+position = Vector2( 1088.93, 404.07 )
 type = 1
 
 [node name="Pickup5" parent="Items" instance=ExtResource( 9 )]
-position = Vector2( 1834.8, 1356.57 )
+position = Vector2( 1088.93, 1749.67 )
 type = 1
 
 [node name="Pickup8" parent="Items" instance=ExtResource( 9 )]
@@ -235,7 +234,7 @@ type = 1
 position = Vector2( 2537.49, 1858.24 )
 
 [node name="Pickup14" parent="Items" instance=ExtResource( 9 )]
-position = Vector2( 2230.07, 1616.34 )
+position = Vector2( 2638.28, 1510.5 )
 
 [node name="Pickup15" parent="Items" instance=ExtResource( 9 )]
 position = Vector2( 2980.98, 1056.93 )
