@@ -42,7 +42,7 @@ __meta__ = {
 }
 
 [node name="Player" parent="." instance=ExtResource( 4 )]
-position = Vector2( 4395.9, 1438.45 )
+position = Vector2( 63.6016, 839.732 )
 
 [node name="Paths" type="Node2D" parent="."]
 

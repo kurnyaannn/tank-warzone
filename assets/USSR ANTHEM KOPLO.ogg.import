@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/USSR ANTHEM KOPLO.ogg-417c42b4fab52ce5c0fc1e4db99f1590.oggstr"
+
+[deps]
+
+source_file="res://assets/USSR ANTHEM KOPLO.ogg"
+dest_files=[ "res://.import/USSR ANTHEM KOPLO.ogg-417c42b4fab52ce5c0fc1e4db99f1590.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
